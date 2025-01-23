@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Gustavo González**
+# 👋 ¡Hola! Soy **Gustavo González**.
 
 ---
 
