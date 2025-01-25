@@ -1,35 +1,39 @@
-# 👋 ¡Hola! Soy **Gustavo González**.
+👋 **¡Bienvenido/a a mi rincón de código!**  
+*Soy **Gustavo González**, un apasionado por los datos que cree en su poder para transformar realidades.*  
+🌍 *De geólogo a data analyst: donde la curiosidad científica se encuentra con la precisión técnica.*  
 
 ---
 
-### 👨‍💻 **Data Engineer** | 📈 **Data Analyst** | ⚒️ **Ingeniero Geólogo**
+### **🧠 Mis herramientas favoritas**  
+**Lenguajes & Frameworks:**  
+`Python` | `SQL` | `PySpark` | `FastAPI`  
 
-Sigo de cerca la intersección entre las **industrias** y la **ciencia de datos**, dedicándome a investigar cómo esta última está transformando la metodología de trabajo y optimizando las toma de decisiones.
+**Bases de Datos:**  
+`PostgreSQL` | `MySQL` 
+
+**Cloud & DevOps:**  
+`GCP` | `Docker` | `Apache Airflow`  
+
+**Visualización & Analytics:**  
+`Power BI` | `Tableau` | `Streamlit` | `Plotly`  
+
+**Machine Learning:**  
+`Scikit-Learn` | `MLflow` | `TensorFlow` | `dbt (Data Build Tool)` 
 
 ---
 
-### 🚀 **Proyectos Destacados** 
-
-En este repositorio encontrarás algunos de mis proyectos en las áreas de:
-
-- **Data Engineering**: Construcción de pipelines robustos para procesamiento de grandes volúmenes de datos.
-- **MLOps**: Implementación de modelos de machine learning en producción de forma escalable y eficiente.
-- **Data Analytics**: Análisis exploratorio de datos para la extracción de insights accionables.
-- **Arquitectura de Bases de Datos**: Diseño de bases de datos de forma optimizada.
-- **Cloud Computing**: Arquitectura y tecnologías en la nube.
-
+### **✨ ¿Qué me hace diferente?**  
+- **Visión 360°:** Combino metodología científica con analisis de datos.  
+- **Detallista, pero práctico:** Arquitecturas robustas, pero escalables.  
+- **Comunicación clara:** Traduzco *"tecnicismos"* a acciones concretas para equipos y stakeholders.
+  
 ---
 
-### 🛠️ **Habilidades Técnicas**
+### 📬 **¿Conversamos?**  
+Me encanta colaborar en proyectos desafiantes donde los datos sean el corazón de la solución.  
 
-- **Lenguajes**: Python.
-- **Bases de datos**: SQL, NoSQL.
-- **Herramientas y Frameworks**: Streamlit, Dash, Power BI, Tableau, FastAPI.
----
+🔗 **LinkedIn:** [Conectar](https://linkedin.com/in/tu-perfil)  
+📧 **Email:** [gustavoadolfogonz@gmail.com](mailto:gustavoadolfogonz@gmail.com)  
+📱 **WhatsApp:** [+58 414-8791514](https://wa.me/584148791514)  
 
-📫 **¡Conectemos!**  
-Te invito a explorar mis proyectos y conectar conmigo para compartir ideas y oportunidades de colaboración. ¡Quedo a disposición sobre nuevas propuestas! ✉️
-
-- Perfil de LinkedIn: [LinkedIn](https://www.linkedin.com/in/gustavo-gonzalez-data/)
-- Gmail: gustavoadolfogonz@gmail.com
-- Contacto: +584148791514
+*¿Listo para transformar datos en decisiones? 
