@@ -36,4 +36,4 @@ Me encanta colaborar en proyectos desafiantes donde los datos sean el corazón d
 📧 **Email:** [gustavoadolfogonz@gmail.com](mailto:gustavoadolfogonz@gmail.com)  
 📱 **WhatsApp:** [+58 414-8791514](https://wa.me/584148791514)  
 
-*¿Listo para transformar datos en decisiones? 
+*¿Listo para transformar datos en decisiones?*
