@@ -1,4 +1,4 @@
-👋 **¡Bienvenido/a a mi rincón de código!**  
+#👋 **¡Bienvenido/a a mi rincón de código!**  
 *Soy **Gustavo González**, un apasionado por los datos que cree en su poder para transformar realidades.*  
 🌍 *De geólogo a data analyst: donde la curiosidad científica se encuentra con la precisión técnica.*  
 
